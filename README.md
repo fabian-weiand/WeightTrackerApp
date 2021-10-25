@@ -1,13 +1,7 @@
 # WeightTrackerApp
 
-## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+This app was developed on Android Studio as part of the SNHU CS 360 course final project. It is a simple weight tracker that uses SQL lite back end to store both user and weight information. The app callows for user authentication via the log in screen, adjusting current and goal weight on the main activity, and also a weight history activity to see all past weigh-ins.
 
-## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+The app was developed in sections. User needs were first analyzed, the necessary features were designed, the UI developed, and finally the controller was coded. This approach was ideal for learning an efficient way to build an app from the ground up. Testing was done via the debugger and the consosole in the IDE to make sure th code ran without any issues.
 
-## How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
-
-## How did you test to ensure your code was functional? Why is this process important and what did it reveal?
-
-## Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
-
-## In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+While devloping the app I learned a lot though ther eis a lot more to learn. My original design included a bottom navigation bar which I had trouble implementing. In the end due to time contraints I opted for using buttons to navigate between th app activities. This navigation bar is a feature I hopeto add in the future. I think overall the app works well and I am most proud of my sccomplishments with the log in screen where useful feature like forgot password and regist new user had to be developed
